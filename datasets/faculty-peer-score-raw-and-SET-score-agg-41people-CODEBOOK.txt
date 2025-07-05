@@ -1,0 +1,34 @@
+faculty_id: instructor's ID no (anonymized during data cleaning)
+peer_id: evaluating instructor's ID no (anonymized during data cleaning)
+d1_01: (peer evaluation, domain 1, item 1) - instructor's teaching record
+d1_02: (peer evaluation, domain 1, item 2) - teaching plan
+d1_03: (peer evaluation, domain 1, item 3) - course outline
+d2_01: (peer evaluation, domain 2, item 1) - set induction
+d2_02: (peer evaluation, domain 2, item 2) - achievemen of learning objective
+d2_03: (peer evaluation, domain 2, item 3) - interactive teaching
+d2_04: (peer evaluation, domain 2, item 4) - use of teaching aids
+d2_05: (peer evaluation, domain 2, item 5) - formative assessment
+d2_06: (peer evaluation, domain 2, item 6) - reflection
+d3_01: (peer evaluation, domain 3, item 1) - course knowledge and skills
+d3_02: (peer evaluation, domain 3, item 2) - professional values
+d3_03: (peer evaluation, domain 3, item 3) - ethics and moral values
+d4_01: (peer evaluation, domain 4, item 1) - classroom control
+d4_02: (peer evaluation, domain 4, item 2) - time management
+d5_01: (peer evaluation, domain 5, item 1) - use of English
+peer_score_percentage_reported: final evaluation score
+s1_agg: aggregate scores for SET item s1
+s2_agg: aggregate scores for SET item s2
+s3_agg: aggregate scores for SET item s3
+s4_agg: aggregate scores for SET item s4
+s5_agg: aggregate scores for SET item s5
+s6_agg: aggregate scores for SET item s6
+s7_agg: aggregate scores for SET item s7
+s8_agg: aggregate scores for SET item s8
+s9_agg: aggregate scores for SET item s9
+s10_agg: aggregate scores for SET item s10
+no_of_respondents: number of students who responded in SET
+set_score_percentage_reported: average SET score from all students
+
+Note:
+peer evaluation items are rated using various analytical scales;
+scales are not included here due to embargo

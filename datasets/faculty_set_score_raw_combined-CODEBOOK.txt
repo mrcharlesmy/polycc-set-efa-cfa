@@ -1,0 +1,20 @@
+respondent_id: student's respondent ID (already anonymized in system)
+s1: (SET items 1) “I understand the course outline given to me.”;
+s2: (SET items 2) “I understand the learning objective that I need to achieve.”
+s3: (SET items 3) “I understand the topic being taught.”
+s4: (SET items 4) “I have learned new skills or knowledge.”
+s5: (SET items 5) “I was encouraged to participate actively in class.”
+s6: (SET items 6) “I was encouraged to communicate well during class.”
+s7: (SET items 7) “I feel safe in class.”
+s8: (SET items 8) “The teaching aids have enhanced my understanding.”
+s9: (SET items 9) “I am able to emulate my instructor’s positive behaviours.”
+s10: (SET items 10) “I am able to understand the language [English] in class.”
+faculty: the instructor for whom the rating is for
+department_id: where student in enrolled in
+
+Note:
+items s1 to s10 is rated using a 4-point Likert scale;
+"1": "disagree";
+"2": "somewhat disagree";
+"3": "agree";
+"4" "strong agree"
